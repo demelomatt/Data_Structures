@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611618304 source:/home/matt/Documents/Dev/Algorithms/C/Code/2_Flow_control/Greedy_Algorithms.c
+	<stdio.h>
+	<math.h>
+
